@@ -17,3 +17,4 @@ Image Chatting with LLaVA: The app integrates LLaVA for image processing, which 
 PDF Chatting with Chroma DB: The app is tailored for both professional and academic uses, integrating Chroma DB as a vector database for efficient PDF interactions. This feature allows users to engage with their own PDF files locally on their device. Whether it's for reviewing business reports, academic papers, or any other PDF document, the app offers a seamless experience. It provides an effective way for users to interact with their PDFs, leveraging the power of AI to understand and respond to content within these documents. This makes it a valuable tool for personal use, where one can extract insights, summaries, and engage in a unique form of dialogue with the text in their PDF files. Chroma website
 
 #Getting Started
+find the process in run.txt file
