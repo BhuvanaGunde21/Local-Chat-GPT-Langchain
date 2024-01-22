@@ -1,4 +1,7 @@
 # Local-Chat-GPT-Langchain
+
+hello buddies ! im bhuvana and u can find this same project  from soewhere else also but this i fixed errors and deployed successfully !!!
+
 Utilizing LangChain, Streamlit, and Hugging Face within a local environment.
 Break free from the constraints of relying on external services like OpenAI and ChatGPT andembrace the independence offered by local model processing.
 
